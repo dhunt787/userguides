@@ -5,20 +5,12 @@ In order to setup the PSF autoforward rule effectively, you need to use Office36
 3
 * _Please do not use the outlook application to setup the rule, because that relies on your laptop being left on and outlook open while you are on leave._
 
-
-4
-5
 To access the menu where you setup the OOO auto-forward, log into the single sign on portal here - 
-6
-7
+
 Launch the office365 app, by clicking on the app button. It looks like this.
-8
-9
+
 Once the app launches, look over to the right hand side of the window. Beside your name you will see a cog icon, that look like this
-10
-11
-12
-13
+
 Click on that and a menu will pop out from the side of the screen, like this. 
 
 Look down to the bottom of the sidebar. Under the section "Your app settings", there is a  'Mai' option. Click on that.
